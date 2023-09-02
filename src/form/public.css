@@ -1,0 +1,32 @@
+.day {
+  margin: 10px;
+}
+h3 {
+  text-align: left;
+}
+h3 span {
+  color: #ccc;
+  font-size: 12px;
+  margin-left: 16px;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+/* button {
+	margin-bottom: 5px;
+    color: blue;
+} */
+.left button {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.right button {
+  margin-left: 5px;
+}
+.submit {
+  margin-top: 50px;
+  float: right;
+}
